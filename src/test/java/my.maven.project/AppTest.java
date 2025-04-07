@@ -1,4 +1,4 @@
-package my-maven-project;
+package my.maven.project;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
